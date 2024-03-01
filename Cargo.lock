@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "_6_7_exercise_collatz_sequence"
 version = "0.1.0"
+
+[[package]]
+name = "_8_4_exercise_nested_arrays"
+version = "0.1.0"
