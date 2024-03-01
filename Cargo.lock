@@ -13,3 +13,7 @@ version = "0.1.0"
 [[package]]
 name = "_8_4_exercise_nested_arrays"
 version = "0.1.0"
+
+[[package]]
+name = "_9_3_exercise_geometry"
+version = "0.1.0"
