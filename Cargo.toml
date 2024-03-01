@@ -1,2 +1,3 @@
 [workspace]
-members = ["_5_7_exercise_fibonacci"]
+resolver = "2"
+members = ["_5_7_exercise_fibonacci", "_6_7_exercise_collatz_sequence"]
