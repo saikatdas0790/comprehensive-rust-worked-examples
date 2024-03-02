@@ -7,6 +7,10 @@ name = "_10_6_exercise_elevator_events"
 version = "0.1.0"
 
 [[package]]
+name = "_12_4_exercise_expression_evaluation"
+version = "0.1.0"
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 
