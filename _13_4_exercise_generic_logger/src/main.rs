@@ -19,12 +19,12 @@ fn do_things(logger: &impl Logger) {
 }
 
 // TODO: Define and implement `VerbosityFilter`.
-struct VerbosityFilter {
+struct VerbosityFilter<L: Logger> {
     max_verbosity: u8,
-    inner: StderrLogger,
+    inner: L,
 }
 
-impl Logger for VerbosityFilter {
+impl<L: Logger> Logger for VerbosityFilter<L> {
     fn log(&self, verbosity: u8, message: impl Display) {
         if verbosity <= self.max_verbosity {
             self.inner.log(verbosity, message);

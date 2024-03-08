@@ -1,3 +1,3 @@
 [workspace]
 resolver = "2"
-members = [ "_10_6_exercise_elevator_events", "_12_4_exercise_expression_evaluation", "_13_4_exercise_generic_logger","_5_7_exercise_fibonacci", "_6_7_exercise_collatz_sequence", "_8_4_exercise_nested_arrays", "_9_3_exercise_geometry"]
+members = [ "_10_6_exercise_elevator_events", "_12_4_exercise_expression_evaluation", "_13_4_exercise_generic_logger", "_14_5_exercise_generic_min","_5_7_exercise_fibonacci", "_6_7_exercise_collatz_sequence", "_8_4_exercise_nested_arrays", "_9_3_exercise_geometry"]

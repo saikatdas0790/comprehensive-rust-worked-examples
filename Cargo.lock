@@ -15,6 +15,10 @@ name = "_13_4_exercise_generic_logger"
 version = "0.1.0"
 
 [[package]]
+name = "_14_5_exercise_generic_min"
+version = "0.1.0"
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 
