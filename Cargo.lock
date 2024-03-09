@@ -19,6 +19,10 @@ name = "_14_5_exercise_generic_min"
 version = "0.1.0"
 
 [[package]]
+name = "_16_8_exercise_counter"
+version = "0.1.0"
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 
