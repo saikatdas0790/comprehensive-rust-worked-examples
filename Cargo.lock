@@ -23,6 +23,10 @@ name = "_16_8_exercise_counter"
 version = "0.1.0"
 
 [[package]]
+name = "_17_8_exercise_rot13"
+version = "0.1.0"
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 
