@@ -31,6 +31,10 @@ name = "_19_8_exercise_builder_type"
 version = "0.1.0"
 
 [[package]]
+name = "_20_4_exercise_binary_tree"
+version = "0.1.0"
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 
