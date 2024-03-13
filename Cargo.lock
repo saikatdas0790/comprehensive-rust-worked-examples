@@ -35,6 +35,10 @@ name = "_20_4_exercise_binary_tree"
 version = "0.1.0"
 
 [[package]]
+name = "_22_4_exercise_health_statistics"
+version = "0.1.0"
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 
