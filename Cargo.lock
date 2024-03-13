@@ -27,6 +27,10 @@ name = "_17_8_exercise_rot13"
 version = "0.1.0"
 
 [[package]]
+name = "_19_8_exercise_builder_type"
+version = "0.1.0"
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 
