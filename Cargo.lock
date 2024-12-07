@@ -62,6 +62,10 @@ name = "_25_4_exercise_iterator_method_chaining"
 version = "0.1.0"
 
 [[package]]
+name = "_26_5_exercise_modules_for_a_gui_library"
+version = "0.1.0"
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 
