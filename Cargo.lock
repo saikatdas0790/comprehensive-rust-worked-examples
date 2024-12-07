@@ -58,6 +58,10 @@ name = "_25_3_from_iterator"
 version = "0.1.0"
 
 [[package]]
+name = "_25_4_exercise_iterator_method_chaining"
+version = "0.1.0"
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 

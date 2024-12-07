@@ -1,0 +1,6 @@
+[package]
+name = "_25_4_exercise_iterator_method_chaining"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
