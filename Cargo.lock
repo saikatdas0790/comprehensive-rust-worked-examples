@@ -66,6 +66,10 @@ name = "_26_5_exercise_modules_for_a_gui_library"
 version = "0.1.0"
 
 [[package]]
+name = "_27_3_compiler_lints_and_clippy"
+version = "0.1.0"
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 
