@@ -50,6 +50,10 @@ name = "_25_1_iterator"
 version = "0.1.0"
 
 [[package]]
+name = "_25_2_into_iterator"
+version = "0.1.0"
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 
