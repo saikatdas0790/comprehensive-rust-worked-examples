@@ -11,7 +11,7 @@ members = [
   "_20_4_exercise_binary_tree",
   "_22_4_exercise_health_statistics",
   "_23_6_exercise_protobuf_parsing",
-  "_25_1_iterator", "_25_2_into_iterator", "_25_3_from_iterator", "_25_4_exercise_iterator_method_chaining", "_26_5_exercise_modules_for_a_gui_library", "_27_3_compiler_lints_and_clippy", "_27_4_exercise_luhn_algorithm", "_29_3_try_operator",
+  "_25_1_iterator", "_25_2_into_iterator", "_25_3_from_iterator", "_25_4_exercise_iterator_method_chaining", "_26_5_exercise_modules_for_a_gui_library", "_27_3_compiler_lints_and_clippy", "_27_4_exercise_luhn_algorithm", "_29_3_try_operator", "_29_8_exercise_rewriting_with_result",
   "_5_7_exercise_fibonacci",
   "_6_7_exercise_collatz_sequence",
   "_8_4_exercise_nested_arrays",

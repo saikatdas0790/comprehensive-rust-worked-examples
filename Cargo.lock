@@ -42,7 +42,7 @@ version = "0.1.0"
 name = "_23_6_exercise_protobuf_parsing"
 version = "0.1.0"
 dependencies = [
- "thiserror",
+ "thiserror 1.0.58",
 ]
 
 [[package]]
@@ -78,6 +78,14 @@ name = "_29_3_try_operator"
 version = "0.1.0"
 
 [[package]]
+name = "_29_8_exercise_rewriting_with_result"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+ "thiserror 2.0.6",
+]
+
+[[package]]
 name = "_5_7_exercise_fibonacci"
 version = "0.1.0"
 
@@ -94,10 +102,16 @@ name = "_9_3_exercise_geometry"
 version = "0.1.0"
 
 [[package]]
-name = "proc-macro2"
-version = "1.0.79"
+name = "anyhow"
+version = "1.0.94"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "e835ff2298f5721608eb1a980ecaee1aef2c132bf95ecc026a11b7bf3c01c02e"
+checksum = "c1fd03a028ef38ba2276dce7e33fcd6369c158a1bca17946c4b1b701891c1ff7"
+
+[[package]]
+name = "proc-macro2"
+version = "1.0.92"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "37d3544b3f2748c54e147655edb5025752e2303145b5aefb3c3ea2c78b973bb0"
 dependencies = [
  "unicode-ident",
 ]
@@ -117,9 +131,9 @@ version = "0.1.0"
 
 [[package]]
 name = "syn"
-version = "2.0.52"
+version = "2.0.90"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "b699d15b36d1f02c3e7c69f8ffef53de37aefae075d8488d4ba1a7788d574a07"
+checksum = "919d3b74a5dd0ccd15aeb8f93e7006bd9e14c295087c9896a110f490752bcf31"
 dependencies = [
  "proc-macro2",
  "quote",
@@ -132,7 +146,16 @@ version = "1.0.58"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "03468839009160513471e86a034bb2c5c0e4baae3b43f79ffc55c4a5427b3297"
 dependencies = [
- "thiserror-impl",
+ "thiserror-impl 1.0.58",
+]
+
+[[package]]
+name = "thiserror"
+version = "2.0.6"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "8fec2a1820ebd077e2b90c4df007bebf344cd394098a13c563957d0afc83ea47"
+dependencies = [
+ "thiserror-impl 2.0.6",
 ]
 
 [[package]]
@@ -140,6 +163,17 @@ name = "thiserror-impl"
 version = "1.0.58"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "c61f3ba182994efc43764a46c018c347bc492c79f024e705f46567b418f6d4f7"
+dependencies = [
+ "proc-macro2",
+ "quote",
+ "syn",
+]
+
+[[package]]
+name = "thiserror-impl"
+version = "2.0.6"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+checksum = "d65750cab40f4ff1929fb1ba509e9914eb756131cef4210da8d5d700d26f6312"
 dependencies = [
  "proc-macro2",
  "quote",
